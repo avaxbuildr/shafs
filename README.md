@@ -75,7 +75,7 @@ See attached LICENSE file for details
 
 # Contact
 
-[@avaxbuildr](https://twitter.com/avaxbuildr)
+[REKTBuildr](https://twitter.com/rektbuildr)
 
 
 
@@ -85,4 +85,3 @@ Shoutouts:
 
 * https://crypto.bi (English)
 * https://avax.to (English)
-* https://decenbr.com (Portuguese)

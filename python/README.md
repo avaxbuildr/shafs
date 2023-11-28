@@ -22,7 +22,7 @@ See attached LICENSE file for details
 
 # Peace :)
 
-Author: @avaxbuildr
+Author: REKTBuildr
 
 Shoutouts:
 

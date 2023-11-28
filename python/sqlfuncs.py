@@ -1,5 +1,5 @@
 # sqlfuncs.py - Helper subroutines for DB manipulation
-# Author: @avaxbuildr
+# Author: REKTBuildr
 # https://crypto.bi
 # https://crypto.bi 
 # https://decenbr.com

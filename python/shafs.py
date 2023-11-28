@@ -1,5 +1,5 @@
 # shafs.py - Helper shafs subroutines
-# Author: @avaxbuildr
+# Author: REKTBuildr
 # https://crypto.bi
 # https://crypto.bi 
 # https://decenbr.com

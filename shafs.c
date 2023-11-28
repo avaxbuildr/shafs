@@ -1,7 +1,7 @@
 /*
     shafs - SHA256 every file under a filesystem, saving hashes, file sizes and paths to a sqlite database
 
-    Author: @avaxbuildr
+    Author: REKTBuildr
     https://crypto.bi
     https://crypto.bi 
     https://decenbr.com

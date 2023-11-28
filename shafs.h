@@ -4,7 +4,7 @@
 /*
     shafs.h
 
-    Author: @avaxbuildr
+    Author: REKTBuildr
     https://crypto.bi
     https://crypto.bi 
     https://decenbr.com

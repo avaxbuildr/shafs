@@ -6,7 +6,7 @@
 
     shafs_slurp_file - Read file into a string.
 
-    Author: @avaxbuildr
+    Author: REKTBuildr
     https://crypto.bi
     https://crypto.bi 
     https://decenbr.com

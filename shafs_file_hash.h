@@ -5,7 +5,7 @@
 
     shafs_file_hash - Produce sha256sum of a file.
 
-    Author: @avaxbuildr
+    Author: REKTBuildr
     https://crypto.bi
     https://crypto.bi 
     https://decenbr.com

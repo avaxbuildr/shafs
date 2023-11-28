@@ -12,7 +12,7 @@
 # MAKE SURE YOUR SQLITE DB IS IN SYNC BEFORE RUNNING OR THE WRONG FILE MAY BE REMOVED
 # ****************************************************************************************
 
-# Author: @avaxbuildr
+# Author: REKTBuildr
 # https://crypto.bi
 # https://crypto.bi 
 # https://decenbr.com
