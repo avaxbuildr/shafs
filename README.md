@@ -83,5 +83,5 @@ See attached LICENSE file for details
 
 Shoutouts:
 
-* https://crypto.bi (English)
-* https://avax.to (English)
+* https://crypto.bi
+* https://avax.to
